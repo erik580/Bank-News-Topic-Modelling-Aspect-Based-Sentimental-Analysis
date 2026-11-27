@@ -7,8 +7,6 @@ Dokumen ini mendefinisikan **15 aspek** hasil pemetaan topik BERTopic ke taksono
 - Kalimat yang masuk kategori **Lainnya** (outlier atau topik tak jelas) tidak dianotasi sebagai salah satu dari 15 aspek.
 - Daftar aspek ini **dikunci sebelum anotasi dimulai** dan tidak diubah selama proses anotasi berjalan.
 
-Status: **DRAF** (belum dikunci). Definisi dan contoh batas disempurnakan oleh kedua anotator, lalu dikunci.
-
 ---
 
 ## CORPORATE
